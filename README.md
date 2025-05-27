@@ -1,2 +1,2 @@
-# -Bacteria-Growth-Analysis
-Analyzing the Discovery of a New Antibiotic-Resistant Bacterial Species.
+# -data-analysis-projects
+Datasets and scripts for my data analysis portfolio.
